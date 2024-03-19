@@ -1,0 +1,11 @@
+{
+    "name": "german_angry_bug",
+    "version_number": "1.0.1",
+    "description": "Replaces Hoarder Bug audio with Some German Youtuber Voicelines",
+    "website_url": "",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-1.2.3",
+		"no00ob-LCSoundTool-1.2.2"
+    ]
+}
