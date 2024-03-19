@@ -1,7 +1,7 @@
 {
     "name": "german_angry_bug",
     "version_number": "1.0.1",
-    "description": "Replaces Hoarder Bug audio with Some German Youtuber Voicelines",
+    "description": "Replaces Hoarder Bug audio with Some Voicelines from German Content Creators",
     "website_url": "",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
