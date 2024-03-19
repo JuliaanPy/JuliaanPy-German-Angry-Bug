@@ -31,7 +31,7 @@ Welcome to the "Angry German" Hoarding Bug Audio Overhaul for Lethal Company! Th
 
 1. **Download Mod Files**: Get the mod files from the provided link.
 
-2. **Launch the Game**: Start Lethal Company and get ready to face hoarding bugs with a British twist!
+2. **Launch the Game**: Start Lethal Company and get ready to face hoarding bugs with a German twist!
 
 ## Compatibility
 
