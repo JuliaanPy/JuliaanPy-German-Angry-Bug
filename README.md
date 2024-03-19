@@ -5,7 +5,6 @@
 
 Welcome to the "Angry German" Hoarding Bug Audio Overhaul for Lethal Company! This mod injects a dose of humor and intensity into your gaming experience by replacing the standard hoarding bug audio with iconic quotes from German Youtubers from "Nooreax", "Apored", "Montanablack"
 
-Thunderstore Link "https://thunderstore.io/c/lethal-company/p/Juliaan_py/german_angry_bug/"
 
 ## Features
 
@@ -25,6 +24,8 @@ Thunderstore Link "https://thunderstore.io/c/lethal-company/p/Juliaan_py/german_
 - Share the laughter with fellow gamers and turn your encounters into memorable moments.
 
 ## Installation
+
+0.1 **ThunderStore**: "https://thunderstore.io/c/lethal-company/p/Juliaan_py/german_angry_bug/"
 
 1. **Download Mod Files**: Get the mod files from the provided link.
 
