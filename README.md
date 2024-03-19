@@ -1,5 +1,8 @@
 # Lethal Company: "Angry German Content Creators" Hoarding Bug Audio Overhaul 🎮
 
+## ThunderStore Link
+
+- "https://thunderstore.io/c/lethal-company/p/Juliaan_py/german_angry_bug/"
 
 ## Introduction
 
@@ -33,7 +36,3 @@ Welcome to the "Angry German" Hoarding Bug Audio Overhaul for Lethal Company! Th
 ## Compatibility
 
 This mod is designed to work seamlessly with the latest version of Lethal Company. Ensure your game is up to date for optimal performance.
-
-## Source Code
-
-- https://github.com/JuliaanPy/JuliaanPy-German-Angry-Bug
